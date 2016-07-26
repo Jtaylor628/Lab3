@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\dell\downloads\lab3\lab3\lab3\source.cpp(147): warning C4018: '<': signed/unsigned mismatch
+  Lab3.vcxproj -> C:\Users\Dell\Downloads\Lab3\Lab3\Debug\Lab3.exe
+  Lab3.vcxproj -> C:\Users\Dell\Downloads\Lab3\Lab3\Debug\Lab3.pdb (Partial PDB)
